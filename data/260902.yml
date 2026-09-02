@@ -1,0 +1,58 @@
+about:
+  description: Issue tracker and mirror of kubectl code
+  license: Apache-2.0
+  homepage: 
+  head: fd185ed
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-09-02T04:26:22Z
+timeline:
+  created: 2017-03-30
+  lastCommit: 2026-08-29
+  lastRelease: ?
+popularity:
+  star: 3337
+  watcher: 64
+  fork: 1017
+  release: 0
+  contributor: 987
+  pullRequest: 0
+  issue: 1495
+language:
+  Go: 4129537
+  Go Template: 16106
+  Python: 3952
+totalLine: 4149595
+recent:
+  last30d:
+    since: 2026-08-03
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 7
+    commit: 4
+  last90d:
+    since: 2026-06-04
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 7
+    openIssue: 12
+    commit: 37
+  last180d:
+    since: 2026-03-06
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 21
+    openIssue: 13
+    commit: 119
+  last360d:
+    since: 2025-09-07
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 59
+    openIssue: 16
+    commit: 286
