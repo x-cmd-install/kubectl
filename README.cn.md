@@ -4,7 +4,7 @@
 
 Issue tracker and mirror of kubectl code
 
-![kubectl](https://repo.x-cmd.io/kubectl.svg)
+![kubectl](https://repo.x-cmd.io/kubectl.svg?lang=zh)
 
 ## 安装
 
@@ -23,15 +23,15 @@ x install kubectl
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1398 · **开放 issue**: 103 · **提交数**: 4299
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1399 · **开放 issue**: 102 · **提交数**: 4299
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 5 | 7 | 19 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 14 | 11 | 54 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 64 | 15 | 300 |
+| 30d | 2026-08-11 | 0 | 0 | 0 | 6 | 6 | 19 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 15 | 10 | 54 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 65 | 14 | 300 |
 
 ## 代码规模
 
@@ -64,4 +64,4 @@ kubectl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:45:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:10Z._
