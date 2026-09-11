@@ -12,28 +12,7 @@ Issue tracker and mirror of kubectl code
 x install kubectl
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/kubernetes/kubectl>
-- **许可证**: Apache-2.0
-
-## 流行度
-
-- **Star**: 3,336 · **Fork**: 1,016 · **开放 issue**: 1,501 · **贡献者**: 992
-
-## 累计统计
-
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1399 · **开放 issue**: 102 · **提交数**: 4299
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 6 | 6 | 19 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 15 | 10 | 54 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 65 | 14 | 300 |
-
-## 代码规模
+## 代码洞察
 
 合计: **278,706** 行代码（覆盖前 5 种语言、共 **506** 个文件）。
 
@@ -55,6 +34,30 @@ x install kubectl
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
+## 源代码
+
+- **上游仓库**: <https://github.com/kubernetes/kubectl>
+- **许可证**: Apache-2.0
+
+## 流行度
+
+- **Star**: 3,336 · **Fork**: 1,016 · **开放 issue**: 1,501 · **贡献者**: 992
+
+## 累计统计
+
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 1399 · **开放 issue**: 102 · **提交数**: 4299
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 0 | 0 | 0 | 6 | 6 | 19 |
+| last60d | 2026-07-13 | 0 | 0 | 0 | 10 | 7 | 31 |
+| 90d | 2026-06-13 | 0 | 0 | 0 | 15 | 10 | 54 |
+| last180d | 2026-03-15 | 0 | 0 | 0 | 27 | 11 | 129 |
+| 360d | 2025-09-16 | 0 | 0 | 0 | 65 | 14 | 300 |
+| last720d | 2024-09-21 | 0 | 0 | 0 | 164 | 19 | 641 |
+
 ## 改进这些数据
 
 kubectl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `kubectl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -64,4 +67,4 @@ kubectl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:10Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T00:22:03Z._
