@@ -4,7 +4,7 @@
 
 Issue tracker and mirror of kubectl code
 
-![kubectl](https://repo.x-cmd.io/kubectl.svg)
+[![x-cmd/install — kubectl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kubectl.svg)](https://x-cmd.com/install/kubectl)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install kubectl
 
 ## Code insight
 
-Total: **278,812** lines of code across **506** files in the top 5 languages.
+Total: **279,226** lines of code across **508** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 163,642 | 0 | 0 | 11 |
-| Go | 113,376 | 11,666 | 12,006 | 428 |
+| Go | 113,790 | 11,774 | 12,049 | 430 |
 | Yaml | 1,662 | 44 | 7 | 63 |
 | Python | 69 | 19 | 17 | 1 |
 | Sh | 61 | 51 | 16 | 3 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,342 · **Forks**: 1,018 · **Open issues**: 1,502 · **Contributors**: 995
+- **Stars**: 3,344 · **Forks**: 1,018 · **Open issues**: 1,503 · **Contributors**: 997
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1402 · **Open issues**: 100 · **Commits**: 4308
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1403 · **Open issues**: 100 · **Commits**: 4311
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 8 | 2 | 22 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 11 | 6 | 28 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 16 | 8 | 56 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 29 | 8 | 129 |
-| 360d | 2025-09-23 | 0 | 0 | 0 | 66 | 12 | 298 |
-| last720d | 2024-09-28 | 0 | 0 | 0 | 163 | 17 | 650 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 8 | 3 | 20 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 11 | 7 | 27 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 16 | 9 | 54 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 29 | 9 | 131 |
+| 360d | 2025-09-25 | 0 | 0 | 0 | 66 | 13 | 297 |
+| last720d | 2024-09-30 | 0 | 0 | 0 | 162 | 18 | 653 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for kubectl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:47:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:05:51Z._
