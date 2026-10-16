@@ -14,12 +14,12 @@ x install kubectl
 
 ## Code insight
 
-Total: **280,189** lines of code across **515** files in the top 5 languages.
+Total: **280,319** lines of code across **515** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 163,642 | 0 | 0 | 11 |
-| Go | 114,753 | 12,077 | 12,156 | 437 |
+| Go | 114,883 | 12,078 | 12,157 | 437 |
 | Yaml | 1,662 | 44 | 7 | 63 |
 | Python | 69 | 19 | 17 | 1 |
 | Sh | 61 | 51 | 16 | 3 |
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,361 · **Forks**: 1,018 · **Open issues**: 1,509 · **Contributors**: 1,018
+- **Stars**: 3,361 · **Forks**: 1,019 · **Open issues**: 1,509 · **Contributors**: 1,019
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1412 · **Open issues**: 97 · **Commits**: 4377
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1412 · **Open issues**: 97 · **Commits**: 4383
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 0 | 0 | 5 | 2 | 41 |
-| last60d | 2026-08-16 | 0 | 0 | 0 | 14 | 4 | 66 |
-| 90d | 2026-07-17 | 0 | 0 | 0 | 20 | 5 | 79 |
-| last180d | 2026-04-18 | 0 | 0 | 0 | 34 | 7 | 159 |
-| 360d | 2025-10-20 | 0 | 0 | 0 | 69 | 11 | 326 |
-| last720d | 2024-10-25 | 0 | 0 | 0 | 162 | 15 | 719 |
+| 30d | 2026-09-16 | 0 | 0 | 0 | 4 | 2 | 44 |
+| last60d | 2026-08-17 | 0 | 0 | 0 | 14 | 4 | 69 |
+| 90d | 2026-07-18 | 0 | 0 | 0 | 20 | 5 | 82 |
+| last180d | 2026-04-19 | 0 | 0 | 0 | 34 | 7 | 162 |
+| 360d | 2025-10-21 | 0 | 0 | 0 | 69 | 11 | 329 |
+| last720d | 2024-10-26 | 0 | 0 | 0 | 162 | 15 | 725 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for kubectl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T04:42:16Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T04:38:43Z._
