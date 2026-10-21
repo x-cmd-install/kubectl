@@ -30,9 +30,9 @@ x install kubectl
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## 源代码
 
@@ -41,7 +41,7 @@ x install kubectl
 
 ## 流行度
 
-- **Star**: 3,361 · **Fork**: 1,019 · **开放 issue**: 1,509 · **贡献者**: 1,020
+- **Star**: 3,361 · **Fork**: 1,019 · **开放 issue**: 1,509 · **贡献者**: 1,021
 
 ## 累计统计
 
@@ -51,12 +51,12 @@ x install kubectl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 4 | 2 | 39 |
-| last60d | 2026-08-21 | 0 | 0 | 0 | 14 | 3 | 68 |
-| 90d | 2026-07-22 | 0 | 0 | 0 | 19 | 5 | 76 |
-| last180d | 2026-04-23 | 0 | 0 | 0 | 31 | 7 | 148 |
-| 360d | 2025-10-25 | 0 | 0 | 0 | 69 | 11 | 320 |
-| last720d | 2024-10-30 | 0 | 0 | 0 | 162 | 15 | 727 |
+| 30d | 2026-09-21 | 0 | 0 | 0 | 4 | 2 | 39 |
+| last60d | 2026-08-22 | 0 | 0 | 0 | 14 | 3 | 68 |
+| 90d | 2026-07-23 | 0 | 0 | 0 | 19 | 5 | 76 |
+| last180d | 2026-04-24 | 0 | 0 | 0 | 31 | 7 | 148 |
+| 360d | 2025-10-26 | 0 | 0 | 0 | 69 | 11 | 320 |
+| last720d | 2024-10-31 | 0 | 0 | 0 | 162 | 15 | 727 |
 
 ## 改进这些数据
 
@@ -67,4 +67,4 @@ kubectl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T04:49:02Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T04:42:24Z._
