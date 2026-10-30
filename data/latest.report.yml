@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T05:44:42Z
+  collectedAt: 2026-10-30T05:45:43Z
 timeline:
   created: 2017-03-30
   lastCommit: 2026-10-28
@@ -19,7 +19,7 @@ popularity:
   watcher: 63
   fork: 1019
   release: 0
-  contributor: 1022
+  contributor: 1023
   pullRequest: 0
   issue: 1511
 language:
@@ -29,15 +29,15 @@ language:
 totalBytes: 4231729
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 2
-    openIssue: 3
+    closedIssue: 1
+    openIssue: 2
     commit: 39
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
     openPR: 0
@@ -45,7 +45,7 @@ recent:
     openIssue: 4
     commit: 79
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 0
     openPR: 0
@@ -53,15 +53,15 @@ recent:
     openIssue: 6
     commit: 91
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 0
     openPR: 0
-    closedIssue: 31
+    closedIssue: 30
     openIssue: 8
     commit: 157
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
     mergedPR: 0
     openPR: 0
@@ -69,7 +69,7 @@ recent:
     openIssue: 11
     commit: 329
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
     mergedPR: 0
     openPR: 0
@@ -85,7 +85,7 @@ total:
   commit: 4408
 ---
 path: /home/runner/.x-repo/github.com/kubernetes/kubectl
-collectedAt: 2026-10-29T05:44:51Z
+collectedAt: 2026-10-30T05:45:49Z
 loc:
   Json:
     code: 163642
