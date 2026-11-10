@@ -31,7 +31,7 @@ Overall score: **5.3 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **Dangerous-Workflow** (-1/10) — no workflows found
 - **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,368 · **Forks**: 1,018 · **Open issues**: 1,521 · **Contributors**: 1,035
+- **Stars**: 3,367 · **Forks**: 1,018 · **Open issues**: 1,523 · **Contributors**: 1,035
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1419 · **Open issues**: 102 · **Commits**: 4432
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1421 · **Open issues**: 102 · **Commits**: 4432
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 0 | 0 | 7 | 5 | 30 |
-| last60d | 2026-09-10 | 0 | 0 | 0 | 12 | 7 | 77 |
-| 90d | 2026-08-11 | 0 | 0 | 0 | 22 | 10 | 102 |
-| last180d | 2026-05-13 | 0 | 0 | 0 | 34 | 12 | 154 |
-| 360d | 2025-11-14 | 0 | 0 | 0 | 72 | 15 | 337 |
-| last720d | 2024-11-19 | 0 | 0 | 0 | 165 | 20 | 773 |
+| 30d | 2026-10-11 | 0 | 0 | 0 | 9 | 5 | 30 |
+| last60d | 2026-09-11 | 0 | 0 | 0 | 14 | 7 | 77 |
+| 90d | 2026-08-12 | 0 | 0 | 0 | 24 | 10 | 102 |
+| last180d | 2026-05-14 | 0 | 0 | 0 | 36 | 12 | 154 |
+| 360d | 2025-11-15 | 0 | 0 | 0 | 74 | 15 | 337 |
+| last720d | 2024-11-20 | 0 | 0 | 0 | 167 | 20 | 773 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for kubectl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:16:42Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:22:45Z._
