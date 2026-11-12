@@ -41,22 +41,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,367 · **Forks**: 1,019 · **Open issues**: 1,524 · **Contributors**: 1,035
+- **Stars**: 3,367 · **Forks**: 1,018 · **Open issues**: 1,526 · **Contributors**: 1,035
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1423 · **Open issues**: 101 · **Commits**: 4434
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 1423 · **Open issues**: 103 · **Commits**: 4434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 0 | 0 | 11 | 4 | 32 |
-| last60d | 2026-09-12 | 0 | 0 | 0 | 16 | 6 | 79 |
-| 90d | 2026-08-13 | 0 | 0 | 0 | 26 | 8 | 104 |
-| last180d | 2026-05-15 | 0 | 0 | 0 | 38 | 11 | 156 |
-| 360d | 2025-11-16 | 0 | 0 | 0 | 76 | 14 | 339 |
-| last720d | 2024-11-21 | 0 | 0 | 0 | 169 | 19 | 775 |
+| 30d | 2026-10-13 | 0 | 0 | 0 | 11 | 6 | 32 |
+| last60d | 2026-09-13 | 0 | 0 | 0 | 16 | 8 | 79 |
+| 90d | 2026-08-14 | 0 | 0 | 0 | 25 | 10 | 104 |
+| last180d | 2026-05-16 | 0 | 0 | 0 | 38 | 13 | 156 |
+| 360d | 2025-11-17 | 0 | 0 | 0 | 76 | 16 | 339 |
+| last720d | 2024-11-22 | 0 | 0 | 0 | 169 | 21 | 775 |
 
 ## Improve this data
 
@@ -67,4 +67,4 @@ Install metadata for kubectl lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:07:26Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:21:17Z._
